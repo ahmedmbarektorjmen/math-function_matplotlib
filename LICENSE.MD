@@ -1,4 +1,4 @@
-[Project Name]
+math-function_matplotlib
 
 Copyright (c) 2023 ahmed mbarek
 

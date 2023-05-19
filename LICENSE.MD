@@ -1,5 +1,3 @@
-math-function_matplotlib
-
 Copyright 2023 ahmed mbarek
 
 Licensed under the Apache License, Version 2.0 (the "License");
